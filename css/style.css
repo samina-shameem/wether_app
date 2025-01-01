@@ -10,7 +10,7 @@ body{
 }
 
 .weather-app{
-     background: rgb(153, 185, 203);
+     background: linear-gradient(135deg, #00feba, #5b548a);
      padding: 20px;
      border-radius: 8px;
      box-shadow: 0 2px 10px rgba(0,0,0, 0.1);
